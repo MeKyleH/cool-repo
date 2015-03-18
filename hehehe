@@ -1,5 +1,5 @@
 @charset "UTF-8";
-#header-wrapper{float:right}
+#header-wrapper{float:left}
 nav.top-logins-menu{position:relative;float:right;display:block;z-index:1;padding-top:20px}
 nav.top-logins-menu ul li{display:inline;padding:5px 12px}
 nav.top-logins-menu ul li a{padding:5px 12px;border:2px #A7A9AC solid;color:#535556;font-weight:700;text-transform:uppercase;border-radius:25px}
